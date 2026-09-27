@@ -1,0 +1,6 @@
+{
+  "name": "Bank Sampah Kenanga 9",
+  "description": "Aplikasi Bank Sampah Kenanga 9 untuk pencatatan setoran sampah, tabungan warga, dan katalog harga berbasis React & Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
